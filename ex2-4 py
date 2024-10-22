@@ -1,9 +1,11 @@
 
+ ...
+
  Welcome to GDB Online, comment by Leo
  
  ...
  # this is output
-  # this is output2
- print("Hello World") # this is output
+ # this is output2
+print("Hello World") # this is output
  
- #print (' this is by Leo)
+print ('this is by Leo)
