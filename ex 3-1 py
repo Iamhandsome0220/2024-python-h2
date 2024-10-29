@@ -1,0 +1,7 @@
+import random
+
+print(random.randrang(1,10))
+print(random.randrang(1,10))
+print(random.randrang(1,10))
+print(random.randrang(1,10))
+print(random.randrang(1,10))
