@@ -6,7 +6,7 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 '''
-a=33
-b=200
-if b<a:
+a = 33
+b = 20
+if  b < a:
     print("b is greater than a")
