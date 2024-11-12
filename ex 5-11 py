@@ -1,0 +1,4 @@
+h = int(input ("please input h "))
+w = int(input ("please input w "))
+
+print(" area = " ,  h*w)
