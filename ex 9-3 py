@@ -1,0 +1,30 @@
+'''
+
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+
+'''
+thisdict = {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 1964,
+    "year": 1984
+}
+print(thisdict)
+print(len(thisdict))
+print(thisdict["brand"])
+print(thisdict["model"])
+print(thisdict["year"])
+thisdict["brand"] = "BMW"
+print(thisdict)
+
+print(thisdict.keys())
+
+x = thisdict.keys()
+
+print(x) #before the change
+
+thisdict["color1"] = "red"
+print(thisdict)
